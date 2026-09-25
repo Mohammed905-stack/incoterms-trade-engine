@@ -1,0 +1,6 @@
+{
+  "name": "Incoterms 2020 & Global Trade Cost Engine",
+  "description": "Enterprise trade logistics, interactive Incoterms 2020 rules matrix, landed cost simulation engine, scenario comparator, and compliance advisory generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
